@@ -37,7 +37,9 @@ cd QueryBridge-LLM
 ## Creating a Virtual Environment
 
 python -m venv venv
+
 source venv/bin/activate   # On Mac/Linux
+
 venv\Scripts\activate      # On Windows
 
 ## Install Dependencies
