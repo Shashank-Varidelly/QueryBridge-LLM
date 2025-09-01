@@ -69,7 +69,7 @@ SELECT * FROM students WHERE class = 10;
 
 Answer will be "Krish"
 
-##💡 Use Cases
+## 💡 Use Cases
 
 Business analysts extracting insights from databases.
 
