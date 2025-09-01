@@ -31,6 +31,7 @@ It enables non-technical users to query databases seamlessly without writing SQL
 ### 1️⃣ Clone the Repository  
 
 git clone https://github.com/Shashank-Varidelly/QueryBridge-LLM.git
+
 cd QueryBridge-LLM
 
 ## Creating a Virtual Environment
