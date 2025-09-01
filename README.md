@@ -19,10 +19,15 @@ It enables non-technical users to query databases seamlessly without writing SQL
 
 ## 📂 Project Structure  
 ├── app.py # Streamlit main application
+
 ├── sql.py # Core Text-to-SQL logic
+
 ├── dataset/ # Sample database & schema - It will be created once you run and enter natural language queries
+
 ├── requirements.txt # Dependencies
+
 ├── .env.example # Example environment file - makersuite.google.com/app/apikey [you create an google-api key from this website and paste it in this .env
+
 └── README.md # Project documentation
 
 
