@@ -26,7 +26,7 @@ It enables non-technical users to query databases seamlessly without writing SQL
 
 ├── requirements.txt # Dependencies
 
-├── .env.example # Example environment file - "makersuite.google.com/app/apikey" [you create a Google-API Key from this website and paste it in this .env
+├── .env.example # Example environment file - https://aistudio.google.com/app/apikey - [you create a Google-API Key from this website and paste it in this .env
 
 └── README.md # Project documentation
 
