@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ### Paste the Created google API key in the .env file:
 
-GOOGLE_API_KEY=your_api_key_here
+GOOGLE_API_KEY="your_api_key_here"
 
 ## Run The Streamlit App
 
